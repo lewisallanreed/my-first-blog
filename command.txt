@@ -1,0 +1,1 @@
+C:\Users\Utente\Documents\Documenti Fra\JuntoDjangoGirls\PythonPRJ\PRJ1>python3 TestPY.py
